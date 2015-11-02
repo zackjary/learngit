@@ -7,5 +7,6 @@ test
 haha
 git diff -- test.txt
 git merge & delete dev
-no ff
+--no-off
+dev1  fix issue
 
