@@ -11,3 +11,4 @@ git merge & delete dev
 dev1  fix issue
 hahas dev
 
+git stash
