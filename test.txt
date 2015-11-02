@@ -7,3 +7,4 @@ test
 haha
 git diff -- test.txt
 git merge & delete dev
+
